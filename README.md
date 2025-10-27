@@ -103,10 +103,8 @@ The extension uses a modular architecture with:
 
 ## 📝 License
 
-This project was built for Google Chrome Built-in AI Challenge 2025
-. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Made with ❤️ during Google Chrome Built-in AI Challenge 2025
-**
+**Made with ❤️ during Google Chrome Built-in AI Challenge 2025**
